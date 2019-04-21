@@ -6,7 +6,7 @@ python -i listup_references_from_manuscript.py
 
 You will be asked to type in the input file name (manuscript text file) and output file name (output list file). 
 
-For exapmle, the following list ("ref.txt" in this repository)
+For exapmle, the following list ("references.txt" in this repository)
 
 Adam 1910  
 Baker and Clark 1920  
