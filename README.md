@@ -12,5 +12,5 @@ Francis et al. 2010b
 Kucieńska et al. 2015  
 Neumann 2050  
 
-is extracted from the "sample_input_file.txt". The extraction is correct except for the last one, which is actually "von Neumann 2050", but the current version ignore "von". 
+is extracted from the "sample_input_file.txt". The extraction is correct except for the last one, which is actually "von Neumann 2050", but the current version simply ignores "von". 
 
