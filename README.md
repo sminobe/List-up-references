@@ -1,7 +1,7 @@
 # List-up-references
 Make a reference list from the main text of a manuscript. The list can be used for manual check of consistency between references in main text and reference list. 
 
-The main script is listup_references_from_manuscript.py, and you can run 
+The main script is listup_references_from_manuscript.py, and you can run  
 python -i listup_references_from_manuscript.py
 
 You will be asked to type in the input file name (manuscript text file) and output file name (output list file). 
