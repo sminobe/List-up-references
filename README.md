@@ -4,7 +4,6 @@ Make a reference list from the main text of a manuscript. The list can be used f
 For exapmle, the following list 
 
 Adam 1910
-
 Baker and Clark 1920
 Davis et al. 1930
 Evans-Smith 2000
