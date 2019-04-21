@@ -1,0 +1,11 @@
+This script can produce a reference list consisting of authors’ family names and publication year. You can use the list for comparison of your reference list in the manuscript to know whether you have a mistake in the main text and reference list. I almost always have some problems in my references, but by using the list produced by this script. The correction becomes easier. 
+
+The basic judgement is conducted by 4-digit number starting from 1 or 2, i.e., 1000 or 2017 and that number follows a name-like expressions. 
+
+This script can handle the following text. 
+Adam (1910), Baker and Clark (1920) and Davis et al. (1930) studied this. This is recently studied (e.g., Francis et al. 2010a; 2010b). Also Kucieńska et al. [2015] is correctly handled (i.e., non-asci characters and [ ] instead of ( )). 
+
+The combination of month and year, e.g., August 2000 or Jan. 2001, are correctly judged that this is not a reference. 
+
+But of course this simple script is not perfect and cannot correctly extract the reference information for two-word family names, such as, von Neumann (2050), but OK if two words are connected by a hyphen like Evans-Smith (2000). Also, since the judgement based on name-like word plus four digit years, some other cases also can be mistakenly judged as reference information. But the occurrence of these cases are not many, I think (at least to my experiences). 
+
